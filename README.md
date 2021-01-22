@@ -1,2 +1,3 @@
 # hello-world
 My incipient foray into the world of GitHub...
+I've seen GitHub mentioned in several locations and now I'm taking the plunge due to a Python class that I'm currently taking.
